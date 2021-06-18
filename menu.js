@@ -1,28 +1,28 @@
 const help = (p, date, user, wame) => {
 return `
 ╭━━━━━━━━━━━━━━━━━━━╮
-┃☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
+┃---𝙵𝚂𝚜𝚘𝚌𝚒𝚎𝚝𝚢---
 ┃  
 ┃ 🕐 𝐃𝐚𝐭𝐚 𝐞 𝐡𝐨𝐫𝐚: ${date}
 ┃ 🙂 𝐔𝐬𝐮𝐚́𝐫𝐢𝐨: ${user}
 ┃ 🌎 𝐖𝐚𝐦𝐞: 
 ┃ ${wame}                                       
 ┃
-┣━━ 🤩 𝑹𝑬𝑫𝑬𝑺 𝑺𝑶𝑪𝑰𝑨𝑰𝑺 🤩 ━╮
+┣━━
 ┃
 ┃ 📷 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦: @brizasbot01
 ┃
-┃ 🤖𝐆𝐢𝐭𝐡𝐮𝐛:
-┃ 🌐https://suaurl.com/f31687
+┃ 𝐆𝐢𝐭𝐡𝐮𝐛:
+┃ https://github.com/lblisboa/LISboa
 ┃
-┃ 🪀𝐆𝐫𝐮𝐩𝐨:
-┃ 🌐https://suaurl.com/feb29e
+┃ 𝐆𝐫𝐮𝐩𝐨 FS:
+┃ https://chat.whatsapp.com/GgkKUf4GBNuBp6Xh6kTNRm
+┃ 
+┃ 𝐆𝐫𝐮𝐩𝐨 FS
+┃ https://chat.whatsapp.com/GgkKUf4GBNuBp6Xh6kTNRm
 ┃
-┃ 📹𝐘𝐨𝐮𝐭𝐮𝐛𝐞:
-┃ 🌐https://suaurl.com/c12fe7
-┃
-┃ 🤑𝐁𝐫𝐢𝐳𝐚𝐬-𝐚𝐩𝐢:
-┃ 🌐https://suaurl.com/e55630
+┃ GIT
+┃ https://github.com/lblisboa/LISboa
 ┃
 ┣━━━⚡ 𝙋𝙍𝙄𝙉𝘾𝙄𝙋𝘼𝙄𝙎 ⚡━━━╮
 ┃ ${p}brizasapi
@@ -46,7 +46,7 @@ return `
 ┃ ${p}blacklist
 ┃ ${p}criador
 ┃ ${p}toimg (leg, resp img)
-┣━━━━😎 𝘾𝙍𝙄𝘼𝘿𝙊𝙍 😎━━━━╮
+┣━━━  𝘾𝙍𝙄𝘼𝘿𝙊𝙍 ━━━━╮
 ┃ ${p}blockcmd (cmd sem prefix)
 ┃ ${p}unblockcmd (cmd sem prefix)
 ┃ ${p}alerta (txt)
@@ -66,11 +66,7 @@ return `
 ┃ ${p}unblock (num)
 ┃ ${p}msginfo
 ┃ ${p}chatinfo
-┣━━━━━💫 𝙇𝙀𝙑𝙀𝙇 💫━━━━━╮
-┃ ${p}deletelevel
-┃ ${p}level (n/a, num)
-┃ ${p}registerlevel
-┣━━━━━❌ 𝘼𝙉𝙏𝙄 ❌━━━━━╮
+┣━━━━━𝘼𝙉𝙏𝙄━━━━━╮
 ┃ ${p}antidoc (1 or 0)
 ┃ ${p}antiloc (1 or 0)
 ┃ ${p}antiimg (1 or 0)
@@ -127,42 +123,6 @@ return `
 ┃ ${p}ttp4 (txt)
 ┃ ${p}ttp5 (txt)
 ┃ ${p}ttp6 (txt)
-┣━━━━🎨 𝙀𝙁𝙀𝙄𝙏𝙊𝙎 🎨━━━━╮
-┃ obs: coloque "me"
-┃ ou marque alguém
-┃
-┃ ${p}triggerfig
-┃ ${p}triggered 
-┃ ${p}lisa (txt)
-┃ ${p}sepie 
-┃ ${p}invert
-┃ ${p}greyscale 
-┃ ${p}lgbt 
-┃ ${p}blur
-┣━━━🖌️ 𝙈𝙊𝙉𝙏𝘼𝙂𝙀𝙉𝙎 🖌️━━╮
-┃ obs: coloque "me"
-┃ ou marque alguém
-┃
-┃ ${p}trash 
-┃ ${p}thomas 
-┃ ${p}tatto 
-┃ ${p}stonks 
-┃ ${p}spank 
-┃ ${p}rip 
-┃ ${p}notstonks 
-┃ ${p}mms
-┃ ${p}karaba
-┃ ${p}jail 
-┃ ${p}hitler
-┃ ${p}facepalm
-┃ ${p}bluediscord
-┃ ${p}blackdiscord
-┃ ${p}delete
-┃ ${p}confusedstonks
-┃ ${p}dobross
-┃ ${p}beatiful
-┃ ${p}affect
-┃ ${p}ad
 ┣━━━━✨ 𝙎𝙏𝙄𝘾𝙆𝙀𝙍 ✨━━━━╮
 ┃ ${p}stiker (leg, resp img)
 ┃ ${p}sticker (leg, resp img)
@@ -175,13 +135,7 @@ return `
 ┃ ${p}nfstiker (pack) (author)
 ┃ ${p}nfsticker (pack) (author)
 ┃ ${p}macaco
-┣━━💥 𝙍𝙊𝙇𝙀𝙏𝘼 𝙍𝙐𝙎𝙎𝘼 💥━━╮
-┃ ${p}helproleta
-┃ ${p}roletarussahard
-┃ ${p}roletarussamed
-┃ ${p}roletarussaeasy
-┃ ${p}roletarussapac
-┣━#️⃣ 𝙅𝙊𝙂𝙊 𝘿𝘼 𝙑𝙀𝙇𝙃𝘼 #️⃣━╮
+┣━ 𝙅𝙊𝙂𝙊 𝘿𝘼 𝙑𝙀𝙇𝙃𝘼 #━╮
 ┃ ${p}ttt (dificulty)
 ┃ ${p}coord (coordenada)
 ┃ ${p}tttme
@@ -200,7 +154,7 @@ return `
 ┃ ${p}lentovid (resp video)
 ┃ ${p}togif (resp video)
 ┃ ${p}resizevid (lag) (alt) (resp vid)
-┣━━━━━🎨 𝙇𝙊𝙂𝙊𝙎 🎨━━━━╮
+┣━━━━𝙇𝙊𝙂𝙊𝙎━━━━╮
 ┃ ${p}missionpassed (t1) | (t2)
 ┃ ${p}nulis (txt)
 ┃ ${p}watercolor (txt)
@@ -226,7 +180,7 @@ return `
 ┃ ${p}galaxywp (txt)
 ┃ ${p}whatis (txt)
 ┃ ${p}txt3d (txt)
-┣━━━━━📷 𝙁𝙊𝙏𝙊𝙎 📷━━━━╮
+┣━━━━𝙁𝙊𝙏𝙊𝙎━━━━╮
 ┃ ${p}backremove (leg, resp img)
 ┃ ${p}cropimg (lag) (alt) (resp img)
 ┃ ${p}bwimg (resp img)
@@ -236,63 +190,7 @@ return `
 ┃ ${p}monochromeimg (resp img)
 ┃ ${p}resizeimg (lag) (alt) (resp img)
 ┃ ${p}blurimg (rad) (sig) (resp img)
-┣━━━━🔍 𝙋𝙀𝙎𝙌𝙐𝙄𝙎𝘼 🔎━━━╮
-┃ ${p}pensador (autor)
-┃ ${p}xvideos (name)
-┃ ${p}thumbzilla (name)
-┃ ${p}xanimu (name)
-┃ ${p}xnxx (name)
-┃ ${p}fapster (name)
-┃ ${p}pornhub (name)
-┃ ${p}fortniteshop
-┃ ${p}imagesearch (resp img)
-┃ ${p}map (name)
-┃ ${p}brainlysrc (name)
-┃ ${p}search (name)
-┃ ${p}ssweb (url)
-┃ ${p}mediafire (url)
-┃ ${p}mob
-┃ ${p}minecraft
-┃ ${p}covidbrasil
-┃ ${p}covidmundo
-┃ ${p}foxnews
-┃ ${p}lofi
-┃ ${p}boy
-┃ ${p}girl
-┃ ${p}egirl
-┃ ${p}eboy
-┃ ${p}pinterest (name)
-┃ ${p}wallpaper
-┃ ${p}fuckmylife
-┃ ${p}waifu
-┃ ${p}belle
-┃ ${p}saycat
-┃ ${p}biblia
-┃ ${p}animesrc (name anime)
-┃ ${p}mangasrc (name anime)
-┃ ${p}playstore (name app)
-┃ ${p}happymod (name app)
-┃ ${p}pokemon
-┃ ${p}ip (ip)
-┃ ${p}signome (name)
-┃ ${p}gimage (name)
-┣━━⏳ 𝘾𝙊𝙉𝙏𝘼𝙂𝙀𝙈 ⏳━━╮
-┃ ${p}halloween (ano)
-┃ ${p}kidday (ano)
-┃ ${p}motherday (ano)
-┃ ${p}fatherday (ano)
-┃ ${p}carnaval (ano)
-┃ ${p}republic (ano)
-┃ ${p}goodfriday (ano)
-┃ ${p}finados (ano)
-┃ ${p}ourlady (ano)
-┃ ${p}independence (ano)
-┃ ${p}workday (ano)
-┃ ${p}tiradentes (ano)
-┃ ${p}pascoa (ano)
-┃ ${p}natal (ano)
-┃ ${p}anonovo
-┣━━━━━😈 𝙋𝙊𝙍𝙉𝙊 😈━━━━╮
+┣━━━━𝙋𝙊𝙍𝙉𝙊━━━━╮
 ┃ ${p}packmega18
 ┃ ${p}nhentai ❮code❯
 ┃ ${p}randomhentai
@@ -325,14 +223,14 @@ return `
 ┃ ${p}eroneko
 ┃ ${p}erokitsune
 ┃ ${p}spank
-┣━━━━🗣️ 𝙑𝙊𝙕 𝙈𝙊𝘿 🗣️━━━━╮
+┣━━━𝙑𝙊𝙕 𝙈𝙊𝘿━━━━╮
 ┃ ${p}esquilo (resp audio)
 ┃ ${p}grave (resp audio)
 ┃ ${p}estourar (resp audio)
 ┃ ${p}rapidoaudio (resp audio)
 ┃ ${p}lentoaudio (resp audio)
 ┃ ${p}bass (resp audio)
-┣━━━━━🎵 𝘼𝙐𝘿𝙄𝙊 🎵━━━╮
+┣━━━━𝘼𝙐𝘿𝙄𝙊━━━╮
 ┃ ${p}shazam (resp audio)
 ┃ ${p}gtts (la) (txt)
 ┃ ${p}playlist
@@ -344,20 +242,6 @@ return `
 ┃ ${p}ytsearch (name)
 ┃ ${p}ytmp4 (yt url)
 ┃ ${p}ytmp3 (yt url)
-┣━━━⚙️ 𝙂𝙀𝙍𝘼𝘿𝙊𝙍 ⚙️━━━━╮
-┃ ${p}fancy (txt)
-┃ ${p}gpessoa
-┃ ${p}gendereco
-┃ ${p}gcnh
-┃ ${p}geleitortitulo
-┃ ${p}gbanco
-┃ ${p}gcarro
-┃ ${p}gpass (letras n)
-┃ ${p}cpf
-┃ ${p}ddd (ddd)
-┃ ${p}cep (cep)
-┃ ${p}gerarcc
-┃ ${p}gprocesso
 ┣━━━━━━🧾 𝙏𝙀𝙓𝙏𝙊 🧾━━━━╮
 ┃ ${p}nameninja (name)
 ┃ ${p}fakeidentity
@@ -371,30 +255,6 @@ return `
 ┃ ${p}frase
 ┃ ${p}wppim
 ┃ ${p}db
-┣━━━━━🇯🇵 𝘼𝙉𝙄𝙈𝙀𝙎 🇯🇵━━━━╮
-┃ ${p}randomanime
-┃ ${p}randomshota
-┃ ${p}randomkiss
-┃ ${p}randomcry
-┃ ${p}randomhug
-┃ ${p}nekoanime
-┃ ${p}wait (cap, resp vid)
-┃ ${p}slap
-┃ ${p}smile
-┃ ${p}piscada
-┃ ${p}dance
-┃ ${p}cringe
-┃ ${p}blush
-┃ ${p}gore
-┃ ${p}acenar
-┃ ${p}lick
-┃ ${p}bully
-┃ ${p}kemonomimi
-┣━━━👾 𝘾𝙊𝘿𝙄𝙂𝙊𝙎 👾━━━╮
-┃ ${p}txtomorse (txt)
-┃ ${p}morsetotxt (txt)
-┃ ${p}ebinary (txt)
-┃ ${p}dbinary (txt)
 ┣━━━━🏆 𝙍𝘼𝙉𝙆𝙄𝙉𝙂𝙎 🏆━━━╮
 ┃ ${p}ranklindo
 ┃ ${p}rankfeio
@@ -405,7 +265,7 @@ return `
 ┃ ${p}rankfofo
 ┃ ${p}rankotaku
 ┃ ${p}rankgay
-┣━━━🔮 𝙋𝙍𝙀𝙑𝙄𝙎𝙊𝙀𝙎 🔮━━╮
+┣━━𝙋𝙍𝙀𝙑𝙄𝙎𝙊𝙀𝙎━━╮
 ┃ ${p}ship (num1) (num2)
 ┃ ${p}corno (num1)
 ┃ ${p}nazista (num1)
@@ -420,14 +280,6 @@ return `
 ┃ ${p}gostoso (num1)
 ┃ ${p}gostosa (num1)
 ┃ ${p}randomship (n1, n/a)
-┣━━━━📱 𝙌𝙍 𝘾𝙊𝘿𝙀 📱━━━━╮
-┃ ${p}qrcode (txt)
-┃ ${p}qrcodebg (txt)
-┃ ${p}qrcodegb (txt)
-┃ ${p}qrcodebb (txt)
-┃ ${p}qrcodebb1 (txt)
-┃ ${p}qrcoderb (txt)
-┃ ${p}qrcodebr (txt)
 ┣━━━━🕵️ 𝙎𝙏𝘼𝙇𝙆𝙀𝙍 🕵️━━━╮
 ┃ ${p}instastalk (name)
 ┃ ${p}githubstalk (name)
@@ -435,25 +287,7 @@ return `
 ┃ ${p}twitterstalk (name)
 ┃ ${p}ffstalk (id ff)
 ┃ ${p}ytstalk (name)
-┣━━━😳 𝙄𝙉𝙏𝙀𝙍𝘼𝘾̧𝘼̃𝙊 😳━━━╮
-┃ ${p}vsf
-┃ ${p}botfofo
-┃ ${p}pedro
-┃ ${p}botgostoso
-┃ ${p}botviado
-┃ ${p}botbaianor
-┃ ${p}botfdp
-┃ ${p}botfeio
-┃ ${p}botputa
-┃ ${p}botgay
-┃ ${p}botcorno
-┃ ${p}vtmnc
-┃ ${p}bomdia
-┃ ${p}boatarde
-┃ ${p}boanoite
-┃ ${p}lindo
-┃ ${p}cheguei
-┣━━━━😝 𝘿𝙄𝙑𝙀𝙍𝙎𝘼̃𝙊 😝━━━╮
+┣━━━𝘿𝙄𝙑𝙀𝙍𝙎𝘼̃𝙊━━━╮
 ┃ ${p}papel
 ┃ ${p}pedra
 ┃ ${p}tesoura
