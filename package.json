@@ -1,5 +1,5 @@
 {
-  "name": "brizas-bot",
+  "name": "FScenter-bot",
   "version": "2.0.0",
   "description": "No comment",
   "main": "index.js",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "BrizasBot",
+  "author": "FScenter",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.0",
@@ -60,10 +60,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ianmsfvenom/Brizas-bot.git"
+    "url": "git+https://github.com/lblisboa/LISboa.git"
   },
   "bugs": {
-    "url": "https://github.com/ianmsfvenom/Brizas-bot/issues"
+    "url": "https://github.com/lblisboa/LISboa/issues"
   },
-  "homepage": "https://github.com/ianmsfvenom/Brizas-bot#readme"
+  "homepage": "https://github.com/lblisboa/LISboa#readme"
 }
