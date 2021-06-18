@@ -1,7 +1,5 @@
 # ☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️
 <h1 align="center">
-    <p>
-        <img src= "https://thumbs.gfycat.com/ComplexSourKakapo-size_restricted.gif">
     </p>
     <p>
         <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-Briz4loka-purple.svg?style=for-the-badge&logo=github"></a>
