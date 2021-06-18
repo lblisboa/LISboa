@@ -2,7 +2,7 @@
 <h1 align="center">
     </p>
     <p>
-        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-LISBOA-FS-purple.svg?style=for-the-badge&logo=github"></a>
+        <a href="https://github.com/ianmsfvenom"><img title="Author"    src="https://img.shields.io/badge/Author-LISBOAFS-purple.svg?style=for-the-badge&logo=github"></a>
     </p>
     <p>
         <a href="https://github.com/lblisboa/followers"><img title="Followers" src="https://img.shields.io/github/followers/lblisboa?color=blue&style=flat-square"></a>
