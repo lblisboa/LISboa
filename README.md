@@ -6,10 +6,6 @@
     </p>
 </h1>
 
-# 🤔 O que é ?
-
-# Instalação
-
 [Termux](https://play.google.com/store/apps/details?id=com.termux&hl=pt_BR&gl=US)
 
 ```
