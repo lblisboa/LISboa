@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["55219724264617@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '557187645787' 
+const OriginalOwner = '558298241175' 
 // mude para seu numero
 
 var gimagenotregister = false
@@ -16,7 +16,7 @@ const antinewchatmsg = 'O anti chat novo está ativado e você não é meu propr
 const urlaudiomenu = 'https://b.top4top.io/m_19923zx481.mp3'
 // link direto da url do audio
 
-const antipvmsg = '*🚫 PV BLOQUEADO 🚫*'
+const antipvmsg = 'PV BLOQUEADO"
 //mensagem do antipv
 
 const delayantispamcmd = 3
@@ -35,7 +35,7 @@ const byemsgimg = (numero, groupname) => {
 //Obs: não coloque o texto longo para a imagem não sumir
 
 const menumsgimg = (numero, groupname, battery) => {
-    return `MENU DO BRIZAS-BOT COM 434 COMANDOS, BATERIA: ${battery}`
+    return `MENU DA 𝙵𝚂𝚜𝚘𝚌𝚒𝚎𝚝𝚢, BATERIA: ${battery}`
 }
 //Texto no menu da imagem quando welcome esta ativado
 //Obs: não coloque o texto longo para a imagem não sumir
@@ -59,13 +59,13 @@ const backgroundbyeimg = `https://i.imgur.com/2TCj9ri.jpg`
 const apikeyimgbb = 'c9cf132756510ad171587fb5a5a0389f'
 // sua key do imgbb para ativar o antiporn e mais alguns comando que necessita de baixar imagem
 
-const cr = '☄️✨𝑩𝑹⃟𝑰𝒁𝑨𝑺 𝑶⃟𝑹𝑰𝑶𝑵✨☄️\n' 
+const cr = '𝙵𝚂𝚜𝚘𝚌𝚒𝚎𝚝𝚢\n' 
 // texto do simbolo de verificado
 
 const prefix = '!' 
 // prefixo
 
-const blockedmsg = '*😜 Seu número esta bloqueado, ou seja não ouvindo você 😜*'
+const blockedmsg = 'Seu número esta bloqueado, ou seja não ouvindo você'
 // mensagem quando alguem bloqueado solicita um comando
 
 const blockedcmdmsg = '*🚫Este comando esta bloqueado contate o propitetário do bot para saber o pq🚫*'
@@ -162,7 +162,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
 + 'ORG:Ian;\n' 
-+ 'TEL;type=CELL;type=VOICE;waid=557187645787:+55 71 8764-5787\n' 
++ 'TEL;type=CELL;type=VOICE;waid=558298241175:+55 82 9824-1175\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
 //ele corresponde
